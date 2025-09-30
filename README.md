@@ -40,9 +40,10 @@ food-delivery-app/
 
 ├── app/
 │ ├── app.py # Lambda function code
-│ ├── requirements.txt # Python dependencies
-│ ├── template.yaml # SAM template for local testing
-│ └── build.sh # Deployment script
+│ ├── requirements.txt
+│ ├── template.yaml
+│ └── build.sh
+
 └── README.md
 
 ## 🚀 Quick Start
