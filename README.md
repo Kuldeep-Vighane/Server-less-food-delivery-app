@@ -32,6 +32,7 @@ Client → API Gateway → Lambda Function → DynamoDB
 
 ## 📁 Project Structure
 food-delivery-app/
+
 ├── terraform/
 │ ├── main.tf 
 │ ├── variables.tf
