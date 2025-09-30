@@ -23,4 +23,4 @@ A serverless food delivery web application with REST API backend built with Terr
 ```bash
 cd terraform
 terraform init
-terraform applt -auto-approve
+terraform apply -auto-approve
